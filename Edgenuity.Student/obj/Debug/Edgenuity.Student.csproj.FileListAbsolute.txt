@@ -1,0 +1,7 @@
+C:\w\GuiAutomationFramework-master\Edgenuity.Student\bin\Debug\Edgenuity.Student.dll
+C:\w\GuiAutomationFramework-master\Edgenuity.Student\bin\Debug\Edgenuity.Student.pdb
+C:\w\GuiAutomationFramework-master\Edgenuity.Student\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\w\GuiAutomationFramework-master\Edgenuity.Student\obj\Debug\Edgenuity.Student.csprojResolveAssemblyReference.cache
+C:\w\GuiAutomationFramework-master\Edgenuity.Student\obj\Debug\Edgenuity.Student.csproj.CoreCompileInputs.cache
+C:\w\GuiAutomationFramework-master\Edgenuity.Student\obj\Debug\Edgenuity.Student.dll
+C:\w\GuiAutomationFramework-master\Edgenuity.Student\obj\Debug\Edgenuity.Student.pdb

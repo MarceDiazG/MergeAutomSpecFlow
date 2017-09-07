@@ -1,0 +1,2 @@
+C:\w\GuiAutomationFramework-master\ClassLibrary2\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\w\GuiAutomationFramework-master\ClassLibrary2\obj\Debug\Test.csproj.CoreCompileInputs.cache
